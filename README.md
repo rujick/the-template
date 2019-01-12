@@ -1,2 +1,4 @@
-# the-template
-This is a template for collaborative writing projects.
+The Template
+============
+
+This is a template of a collaborative writing project using GitHub.
